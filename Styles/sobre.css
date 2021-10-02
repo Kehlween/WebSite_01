@@ -1,0 +1,29 @@
+
+.text-container-about {
+    max-width: 700px;
+    margin-top: 7%;
+    margin-left: 28%;
+}
+
+.text-container-about h1{
+    font-size: 70px;
+    font-weight: 400;
+    padding-bottom: 16px;
+}
+
+.text-container-about p {
+    font-size: 22px;
+}
+
+
+.text-container-about a{
+    text-decoration: none;
+    background: rgb(18, 146, 197);
+    padding: 14px 40px;
+    display: inline-block;
+    color: #fff;
+    font-size: 18px;
+    margin-top: 30px;
+    border-radius: 30px;
+    font-weight: 600;
+}
